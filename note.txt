@@ -1,0 +1,17 @@
+npm i -g json-server
+
+package.json
+script :
+"server":"json-server --watch db.json --port 5000"
+
+npm i --save json-server
+
+
+create db.json file
+
+{
+data 
+}
+create react app
+}
+inbstall react, router axios, react-toastify ,antd for css bootstrapp cdn
